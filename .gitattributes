@@ -1,0 +1,2 @@
+# Oracle fixtures are read byte for byte (TSV, JSON, boards, gzip); never convert line endings.
+* -text
